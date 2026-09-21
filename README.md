@@ -1,16 +1,4 @@
-<h1 align="center">Hi, I'm João Avella 👋</h1>
-
-<h3 align="center">Computer Science @ IME-USP | Software Engineer | Data & AI Enthusiast</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/joaoavella-1aa566244">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:joaovpa2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-São Paulo, Brazil-lightgrey?style=flat" />
-</p>
+<h1 align="center">Hi, I'm João Avella 👋</h1> <h3 align="center">Computer Science @ IME-USP | Software Engineer | Data & AI Enthusiast</h3> <p align="center"> <a href="https://www.linkedin.com/in/joaoavella-1aa566244"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:joaovpa2005@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ---
 
