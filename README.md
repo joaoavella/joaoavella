@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm João Avella 👋</h1> <h3 align="center">Computer Science @ IME-USP | Software Engineer | Data & AI Enthusiast</h3> <p align="center"> <a href="https://www.linkedin.com/in/joaoavella-1aa566244"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:joaovpa2005@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<h1 align="center">Hi, I'm João Avella 👋</h1> <h3 align="center">Computer Science @ IME-USP | Software Engineer | Data & AI Enthusiast</h3> <p align="center"> <a href="https://www.linkedin.com/in/joão-avella-1aa566244"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:joaovpa2005@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a Software Developer Intern at **IME-USP** and a Computer Science undergraduate student there. I work end-to-end on **fullstack development**, re-engineering and migrating legacy systems into modern, maintainable architectures using **PHP** and **Python**, with **SQL** for relational databases and **Docker** for reliable dev/deploy pipelines.
+I'm a Software Developer Intern at **IME-USP** and a Computer Science undergraduate student there. I work on **fullstack development**, re-engineering and migrating legacy systems into modern, maintainable architectures using **PHP** and **Python**, with **SQL** for relational databases and **Docker** for reliable dev/deploy pipelines.
 
 Driven by a passion for solving problems with data, I'm expanding into **Data Science and AI**. I'm currently a **Trainee at FEA.dev**, where I study data analytics, machine learning, and quantitative finance modeling.
 
