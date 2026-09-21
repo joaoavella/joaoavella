@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science @ IME-USP | Software Engineer | Data & AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joãoavella-1aa566244">
+  <a href="https://www.linkedin.com/in/joaoavella-1aa566244">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:joaovpa2005@gmail.com">
@@ -19,6 +19,7 @@
 I'm a Software Developer Intern at **IME-USP** and a Computer Science undergraduate student there. I work on **fullstack development**, re-engineering and migrating legacy systems into modern, maintainable architectures using **PHP** and **Python**, with **SQL** for relational databases and **Docker** for reliable dev/deploy pipelines.
 
 Driven by a passion for solving problems with data, I'm expanding into **Data Science and AI**. I'm currently a **Trainee at FEA.dev**, where I study data analytics, machine learning, and quantitative finance modeling.
+
 ---
 
 ### 🛠️ Tech Stack
